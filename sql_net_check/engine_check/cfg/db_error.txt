@@ -1,0 +1,13 @@
+异常语音不能处理 3 Can not handle the abnormal audio!
+识别模块处理失败 3 task failed where server=offline_customer_server_test_dnnvad
+角色分割模块处理失败 3 task failed where server=ClusterAndSceneServer
+叠音模块处理失败 3 task failed where server=DetectOverlapPro
+情绪模块处理失败 3 task failed where server=DetectEmotionPro
+xml模块处理失败 3 task failed where server=XMLServer
+语音不存在 3 voice not exits
+语音转码失败 3 voice transcode failed
+语音过短 3 voice is too short
+语音处理期间系统有重启 3 SysRestart
+不能打开xml文件路径 3 can't open xmlfilepath
+不能打开文件 3 open xmlfile failed
+超时两次 3 Timeout twice!
